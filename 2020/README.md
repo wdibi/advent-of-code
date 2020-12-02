@@ -3,7 +3,7 @@
 | Day | Stars         | Language |
 |-----|---------------|----------|
 | 01  | :star: :star: | Python   |
-| 02  |               |          |
+| 02  | :star: :star: | Python   |
 | 03  |               |          |
 | 04  |               |          |
 | 05  |               |          |
