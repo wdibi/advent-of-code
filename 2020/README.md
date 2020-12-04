@@ -5,7 +5,7 @@
 | 01  | :star: :star: | Python   |
 | 02  | :star: :star: | Python   |
 | 03  | :star: :star: | Python   |
-| 04  |               |          |
+| 04  | :star: :star: | Python   |
 | 05  |               |          |
 | 06  |               |          |
 | 07  |               |          |
