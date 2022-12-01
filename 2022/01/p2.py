@@ -19,4 +19,4 @@ for n in lines:
             e.append(int(n))
         else:
             e[group] += int(n)
-print(max(e))
+print(sum(sorted(e, reverse=True)[:3]))
